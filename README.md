@@ -1,2 +1,2 @@
-# Bkh-1
-The firtst repository of BKH.
+# Coursera_Capstone
+this notebook will be mainly used for the capstone project
